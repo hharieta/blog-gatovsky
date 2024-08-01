@@ -13,20 +13,9 @@ Estudia ingeniería de sistemas y colabora en proyectos de software, además de 
   <img src="/assets/gatovsky.webp" class="sm:w-1/2 mx-auto rounded-xl drop-shadow-2xl" alt="coding dev illustration">
 </div>
 
-<!-- ## Tech Stack
+## Poemas Chafas de Amor
 
-Some of the technologies that Inge Gatovsky has worked with include:
-
-- **Languages**: Python, JavaScript, TypeScript
-- **Frameworks**: Django, FastAPI, React, Next.js
-- **Databases**: DynamoDB, PostgreSQL, SQLite
-- **Cloud**: AWS, Azure
-- **Tools**: Docker, Git, GitHub, Pulumi, Jenkins
-- **Others**: Linux, Machine Learning, Kubernetes -->
-
-## Poemas de Amor Chafas
-
-Los poemas de amor chafas son una forma de expresar sentimientos de forma sencilla y estúpida. Estos son algunos títulos escritos por Inge Gatovsky:
+Los **_poemas chafas de amor_** son una forma de expresar sentimientos de forma sencilla y estúpida. Estos son algunos títulos escritos por Inge Gatovsky:
 
 ```
 - Oda a tu espíritu
