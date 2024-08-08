@@ -1,6 +1,7 @@
 ---
 author: Inge Gatovsky
 pubDatetime: 2024-07-31T16:28:18.143Z
+modDatetime: 2024-08-08T02:56:22.848Z
 title: Poemas Chafas D'amour (Pathétique)
 slug: poemas-chafas-damor-pathetique
 featured: true
@@ -32,7 +33,7 @@ Y el oro de tu alma funde los crepúsculos
 de mis ojos a las puertas de la muralla.  
 ¿Quién es el guardián que apuntala su lanza  
 en los bosques profanos de mi ombligo?  
-El extraño color del jade baña el cielo cual espejo  
+El extraño color del jade baña al cielo cual espejo  
 y me invita a cruzar las rejas áureas  
 — Déjame entrar, quiero vivir mis días en *El Dorado*  
 ¡Retira tu lanza pétrea de mi vergüenza!
@@ -41,7 +42,7 @@ y me invita a cruzar las rejas áureas
 Ved, guardián de la dorada puerta,  
 dejo aquí el viejo con9nente y su monarquía;  
 dejo a mis espaldas el ctulo de pirata colón.  
-No necesito más el hábito de la an9gua vida:  
+No necesito más el hábito de la antigua vida:  
 Sólo permanecer en contacto con su naturaleza,  
 arrullado por la aurora de su profunda mirada  
 y vestirme con la sonrisa de pétalos de azucena  
