@@ -27,6 +27,10 @@ const pagination = getPagination({
   page: 1,
   isIndex: true,
 });
+
+// not delete this line. It's necessary for prerendering
+// if you delete it the page crash when try retrieve the posts by tag
+export const prerender = true 
 ---
 
 <TagPosts {...pagination} {tag} {tagName} />
