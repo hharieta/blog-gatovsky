@@ -45,7 +45,7 @@ El objetivo de esta prueba de concepto es obtener los logs de un sistema Windows
         tu_dominio.duckdns.org
     ```
 
-    * `tu tarjeta de red`: Es la tarjeta de red que se esta utilizando, se puede obtener con el comando `ifconfig`.
+    * `tu tarjeta de red`: Es la tarjeta de red que se esta utilizando, se puede obtener con el comando `ifconfig`. Isntalar el paquete `net-tools` si no se tiene instalado: `sudo apt -y install net-tools`.
     * si deseas activar el servicio de DNS dinámico, se debe ejecutar el siguiente comando:
 
     ```bash
