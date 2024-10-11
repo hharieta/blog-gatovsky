@@ -27,7 +27,7 @@ El objetivo de esta prueba de concepto es obtener los logs de un sistema Windows
 
 1. El servidor remoto es una maquina virtual con el sistema `Ubuntu Server 24.04.1 LTS`, la cual usa una connexión de tipo Bridge con IP Dinámica, por tanto se debe configurar un servicio de DNS dinámico para poder acceder a la maquina virtual desde cualquier lugar.
 
-    ![Ubuntu Server](../../assets/server.png)
+    ![Ubuntu Server](../../assets/images/sisprog/server.png)
 
 2. Se Creó un dominio en [DuckDNS](https://www.duckdns.org/) para poder acceder al servidor remoto desde cualquier lugar.
 
@@ -120,13 +120,13 @@ El objetivo de esta prueba de concepto es obtener los logs de un sistema Windows
 
 1. En Archivos > Preferencias > URLs de placas adicionales pega el siguiente enlace: `https://raw.githubusercontent.com/digistump/arduino-boards-index/master/package_digistump_index.json` esto permitirá instalar las placas de Digistump.
 
-    ![Digistump](../../assets/IMG_8763.jpg)
+    ![Digistump](../../assets/images/sisprog/IMG_8763.jpg)
 
 2. En Herramientas > Placa > Gestor de tarjetas busca `Digistump AVR Boards` e instala la versión 1.6.7.
-    ![Digistump](../../assets/IMG_8761.jpg)
+    ![Digistump](../../assets/images/sisprog/IMG_8761.jpg)
 
 3. En Herramientas > Placa selecciona `Digispark (Default - 16.5mhz)`.
-    ![Digispark](../../assets/IMG_8762.jpg)
+    ![Digispark](../../assets/images/sisprog/IMG_8762.jpg)
 
 ### Configuración del Attiny85
 
@@ -176,13 +176,13 @@ El objetivo de esta prueba de concepto es obtener los logs de un sistema Windows
     * Se debe reemplazar `my_dominio.duckdns.org` por el dominio que se creó en DuckDNS.
 
 2. Presiona el boton de `Subir` y espera el mensaje del IDE para insertar el Attiny85.
-    ![Subir](../../assets/IMG_8758.jpg)
+    ![Subir](../../assets/images/sisprog/IMG_8758.jpg)
 
 3. Conecta el Attiny85 a un puerto USB y espera a que suba el código.
-    ![Attiny85](../../assets/IMG_8759.jpg)
+    ![Attiny85](../../assets/images/sisprog/IMG_8759.jpg)
 
 4. Ahora puedes usar el Attiny85 en cualquier computadora con Windows y obtendrás los logs en el servidor remoto.
 
-![Server Run](../../assets/IMG_8760.jpg)
+![Server Run](../../assets/images/sisprog/IMG_8760.jpg)
 
-![Server Logs](../../assets/logs.png)
+![Server Logs](../../assets/images/sisprog/logs.png)
