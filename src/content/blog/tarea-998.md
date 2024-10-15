@@ -1,7 +1,7 @@
 ---
 author: Inge Gatovsky
 pubDatetime: 2024-09-25T03:54:46.649Z
-title: Pruena de Concepto Attiny85
+title: Prueba de Concepto Attiny85
 slug: tarea-998-prueba-de-concepto
 featured: true
 draft: false

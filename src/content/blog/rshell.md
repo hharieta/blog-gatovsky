@@ -24,7 +24,6 @@ El objetivo de esta prueba de concepto es obtener una shell inversa en un sistem
 
 ### Configuración del servidor 🖥️
 
-<a href="">Tarea 998, Configuración del servidor remoto</a>
 Usamos la misma configuración de la <a href="https://blog.hharieta.lat/posts/tarea-998-prueba-de-concepto/#configuración-del-servidor-remoto" target="_blank">Tarea 998, Configuración del servidor remoto</a>, solo que ahora activamos otro puerto en el firewall de Ubuntu:
 
 ```bash
@@ -120,7 +119,7 @@ void loop() {}
 
 _donde `dominio.duckdns.org` es el dominio que se creó en <a href="https://www.duckdns.org/" target="_blank">DuckDNS</a>_
 
-El código ino lo debes cargar al Attiny85 similar a como se muestra<a href="https://blog.hharieta.lat/posts/tarea-998-prueba-de-concepto/#configuración-de-arduino-ide-2x" target="_blank">aquí</a>
+El código ino lo debes cargar al Attiny85 similar a como se muestra <a href="https://blog.hharieta.lat/posts/tarea-998-prueba-de-concepto/#configuración-de-arduino-ide-2x" target="_blank">aquí</a>
 
 ### Configuración de NetCat 🐱
 
